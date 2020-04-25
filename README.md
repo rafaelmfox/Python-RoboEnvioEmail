@@ -1,14 +1,14 @@
 # Python-RoboEnvioEmail
-Robo feito para envio de email, as variaveis que precisan ser preenchidas
-email = "SEU EMAIL"
-senha = "SUA SENHA"
-assunto = "ASSUNTO DO EMAIL"
-corpoEmail = "CORPO DO EMAIL"
+Robo feito para envio de email, as variaveis que precisan ser preenchidas<br>
+email = "SEU EMAIL"<br>
+senha = "SUA SENHA"<br>
+assunto = "ASSUNTO DO EMAIL"<br>
+corpoEmail = "CORPO DO EMAIL"<br>
 preenchendo corretamente ele ira estar logando na sua conta da gmail e enciando em seguida o email
 configurado para o navegador Firefox, podendo ser usado nos demais navegadores
-basta mudar a linha "driver = webdriver.Firefox()", trocar para qual navegador vc utiliza
-driver = webdriver.Opera()
-driver = webdriver.Chrome()
+basta mudar a linha "driver = webdriver.Firefox()", trocar para qual navegador vc utiliza<br>
+driver = webdriver.Opera()<br>
+driver = webdriver.Chrome()<br>
 
 Versao 1.0
 
